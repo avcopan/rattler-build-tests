@@ -1,0 +1,1 @@
+/usr/bin/gfortran CMakeFiles/my_program.dir/myProgram.f90.o CMakeFiles/my_program.dir/myModule1.f90.o -o ../run/my_program 
