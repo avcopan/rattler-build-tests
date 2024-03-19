@@ -1,0 +1,5 @@
+Commands:
+```
+make
+./out
+```
