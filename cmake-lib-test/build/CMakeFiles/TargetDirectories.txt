@@ -1,0 +1,3 @@
+/home/avcopan/Code/other/rattler-build-tests/cmake-lib-test/build/CMakeFiles/HelloWorld.dir
+/home/avcopan/Code/other/rattler-build-tests/cmake-lib-test/build/CMakeFiles/edit_cache.dir
+/home/avcopan/Code/other/rattler-build-tests/cmake-lib-test/build/CMakeFiles/rebuild_cache.dir
